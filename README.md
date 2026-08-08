@@ -11,4 +11,4 @@ It fetches real-time weather data using the OpenWeather API.
 2. Open index.html in browser (use Live Server for best results)
 3. Enter city name and click "Get Weather"
 ## Live Demo
-[Click here to view](https://weather-app-nishu.netlify.app)
+[Click here to view](https://creative-cuchufli-b4ae31.netlify.app/)
