@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url('sunny.jpg') no-repeat center center fixed; 
+  background-size: cover;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+input {
+  padding: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 18px;
+}
